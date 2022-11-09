@@ -1,0 +1,5 @@
+Run angular from client folder:
+npm start
+
+Run dotnet from API folder:
+dotnet run
